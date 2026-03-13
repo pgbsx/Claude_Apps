@@ -1,0 +1,7 @@
+#Instruções CLAUDE com VSCode:
+##1) Pular linha no prompt: ALT+ENTER.
+- se der enter sem querer, para interromper, ESC.
+- Seta para cima vai pegando (navegando) pelo que já escreveu.
+##2) ? : Mostra todos os atalhos.
+##3) /task : Apresenta as tarefas que ele esta rodando.
+- use k para matar a tarefa!
