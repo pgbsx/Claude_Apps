@@ -5,3 +5,5 @@
 ##2) ? : Mostra todos os atalhos.
 ##3) /task : Apresenta as tarefas que ele esta rodando.
 - use k para matar a tarefa!
+
+- Inclui linha após toda a criação para testar como funciona o Claude.exe e o desktop do github (2026/03/14)
