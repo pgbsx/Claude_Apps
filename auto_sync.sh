@@ -12,6 +12,6 @@ if git diff --cached --quiet; then
   echo "Nenhuma alteração para sincronizar."
 else
   git commit -m "$MSG"
-  git push origin main
+  git push origin master
   echo "Sincronizado com GitHub."
 fi
